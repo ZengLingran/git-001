@@ -12,5 +12,6 @@ public class FirstClass {
     }
     public static void test(){
         int a=10;
+        System.out.print(a);
     }
 }
