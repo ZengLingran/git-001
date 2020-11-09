@@ -10,4 +10,7 @@ public class FirstClass {
         System.out.print("hello 003");
         System.out.print("hello 004");
     }
+    public static void test(){
+        int a=10;
+    }
 }
